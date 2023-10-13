@@ -1,4 +1,4 @@
-# My First Docker App
+# My First Docker App.
 
 For the purposes of this workshop, we've created a fun little Python Flask app that displays a random cat `.gif` every time it is loaded - because, you know, who doesn't like cats?
 
